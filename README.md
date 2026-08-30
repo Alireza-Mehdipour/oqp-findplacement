@@ -9,6 +9,17 @@ placement leads including publicly listed company contact details.
 Built for university placement outreach in Melbourne, Australia, but the search region and
 criteria are easy to adapt.
 
+## Try it without deploying
+
+A hosted version runs on Claude's platform, free to use with a free Claude
+account (each user's searches run on their own account, at no cost to anyone
+else):
+
+**[Open the app](https://claude.ai/public/artifacts/dcb6ac22-a2f2-4b04-9682-7baae8f2bbcf)**
+
+Deploy your own copy (see below) if you want it running on your own
+infrastructure, with no Claude account required for your users.
+
 ---
 
 ## What it does
